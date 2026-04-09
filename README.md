@@ -257,7 +257,7 @@ Built in Power BI, sourced from dbt analytics marts on DuckDB.
 
 ![CloudBoxd Supply Chain Command Center](Image/Image/Dashboard.png)
 
-**KPIs tracked:** Fleet size (80 hotboxes), 97.3% return rate, 31.6hr avg turnaround, 61.3% on-time SLA compliance across 4 delivery zones.
+**KPIs tracked:** Fleet size (80 hotboxes), 97.3% return rate, 31.6hr avg turnaround, 61.3% on-time SLA compliance across 4 delivery zones
 
 ---
 
